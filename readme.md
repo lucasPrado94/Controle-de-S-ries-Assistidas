@@ -1,3 +1,4 @@
+<p>Projeto para controle de séries, temporadas e episódios assistidos, desenvolvido com o objetivo de fixar conhecimentos em Laravel ao longo de curso feito na Alura.</p>
 <p align="center"><img src="https://laravel.com/assets/img/components/logo-laravel.svg"></p>
 
 <p align="center">
